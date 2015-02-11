@@ -128,7 +128,7 @@ video#bgvid {
 }
 
 .section-2 {
-	height: 100vh;
+	height: 850px;
 	width: 100%;
 	background-color: #FEFEF2;
 	overflow: scroll;
@@ -136,14 +136,14 @@ video#bgvid {
 
 .section-3 {
 	width: 100%;
-	height: 100vh;
+	height: 900px;
 	background-color: #FEFEF2;
 	overflow: scroll;
 }
 
 .section-4 {
 	width: 100%;
-	height: 100vh;
+	height: 600px;
 	background-color: #FEFEF2;
 }
 
@@ -231,7 +231,7 @@ video#bgvid {
 
 /* About Section */
 .section-2 h1 {
-	margin-top: 0;
+	margin-top: -50px;
 	padding-top: 150px;
 	text-align: center;
 	font-family: sans-serif;
@@ -414,7 +414,7 @@ video#bgvid {
 	height: 250px;
 	width: 950px; 
 	position: relative;
-	margin-top: 270px;
+	margin-top: 180px;
 	margin-right: auto;
 	margin-left: auto;
 	overflow: hidden;
@@ -427,6 +427,7 @@ video#bgvid {
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 0px;
+	padding-top: 10px;
 	-webkit-transition: all 0.5s ease;
 	-moz-transition: all 0.5s ease;
 	transition: all 0.5s ease;
@@ -463,7 +464,7 @@ video#bgvid {
 
 .contact-content ul li a:hover {
 	text-decoration: underline;
-	color: #E03C31;
+	color: #FF4B57;
 }
 
 

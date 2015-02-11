@@ -53,7 +53,7 @@ $(document).ready(function() {
 $(document).scroll(function(){
   var y = $(this).scrollTop();
 
-  if (y > 700) {
+  if (y > 200) {
     $('nav').fadeIn();
   } else {
     $('nav').fadeOut();
