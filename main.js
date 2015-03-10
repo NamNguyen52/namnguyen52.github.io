@@ -69,15 +69,7 @@ $(document).ready(function(){
       'url(Optimized-camera.jpeg)',
       'url(Optimized-coffee.jpg)',
       'url(Optimized-concert.jpeg)',
-      'url(Optimized-flock.jpg)',
-      'url(Optimized-goldengate.jpg)',
-      'url(Optimized-lifeguard.jpg)',
-      'url(Optimized-motel.jpg)',
-      'url(Optimized-neighborhood.jpg)',
-      'url(Optimized-skater.jpg)',
-      'url(Optimized-sparkler.jpeg)',
-      'url(Optimized-traffic.jpg)',
-      'url(Optimized-vwbus.jpg)'
+      'url(Optimized-flock.jpg)'
     );
 
   var current = 0;
