@@ -80,7 +80,7 @@ $(document).ready(function(){
     hello.css('background-image', backgrounds[current]);
   }
 
-  setInterval(nextBackground, 3000);
+  setInterval(nextBackground, 5000);
 
   hello.css('background-image', backgrounds[0]);
 });
