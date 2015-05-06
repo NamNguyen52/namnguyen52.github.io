@@ -131,14 +131,14 @@ video#bgvid {
 	height: 850px;
 	width: 100%;
 	background-color: #FEFEF2;
-	overflow: scroll;
+	overflow: hidden;
 }
 
 .section-3 {
 	width: 100%;
 	height: 900px;
 	background-color: #FEFEF2;
-	overflow: scroll;
+	overflow: hidden;
 }
 
 .section-4 {
@@ -258,8 +258,7 @@ video#bgvid {
 .section-3-container {
 	height: 100%;
 	width: 100%;
-	border: 1px solid transparent;
-	overflow: scroll;
+	/*border: 1px solid transparent;*/
 }
 
 .portfolio-images-container {
